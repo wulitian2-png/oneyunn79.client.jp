@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <title>忍者ホームページ［準備中］</title>
+    <link href="http://www.shinobi.jp/tadaima/css/under_construction_new.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.ninja.co.jp/css/ui/1.0.0/ui.css" media="all" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://www.ninja.co.jp/ui/"></script>
+    <script src='http://a.adimg.net/javascripts/AdLantisLoader.js' type='text/javascript' charset='utf-8'></script>
+</head>
+<body>
+    <a name="link_pagetop" id="link_pagetop"></a>
+
+    <div id="header">
+        <a href="http://www.ninja.co.jp" title="忍者ツールズ" class="shuriken"></a>
+    </div>
+
+    <!-- div#container_block -->
+    <div id="container_block">
+
+        <!-- div#header_block -->
+        <div id="header_block">
+
+            <ul class="bread_crumb">
+                <li class="top"><a href="http://www.ninja.co.jp">忍者ツールズ&nbsp;トップ</a></li>
+                <li class="plural"><a href="http://www.ninja.co.jp/hp/">忍者ホームページ</a></li>
+            </ul>
+
+            <div class="title_block">
+                <h1><a href="http://www.ninja.co.jp/hp/"><img src="http://www.shinobi.jp/tadaima/img/homepage/header_logo.gif" alt="忍者ホームページ" /></a></h1>
+            </div>
+
+        </div>
+        <!-- /div#header_block -->
+
+        <!-- div#contents_block -->
+        <div id="contents_block">
+
+            <!-- div#mainTop -->
+            <div id="mainTop">
+                <h2>このサイトは準備中です</h2>
+                <p><script type="text/javascript">document.write('http://' + location.host + '/');</script></p>
+            </div>
+            <!-- /div#mainTop -->
+
+            <!-- div.ad -->
+            <div class="ad">
+                <!-- Begin: Adlantis, Zone: [0602_UnderConstruction300-250 -->
+                <div class='adlantiss_frame zid_1WPuhJc6G5uybFUEWjc5pQ%3D%3D color_#0000FF-#000000-#F9F9F9-#999999-#008000 container_iframe'></div>
+                <!-- End: Adlantis -->
+                <br />
+                PR
+            </div>
+            <!-- /div.ad -->
+            <div class="clear"></div>
+
+            <!-- div.section -->
+            <div class="section faq">
+                <p class="desc">ホームページを作ってみようと思ったんだけど、よくわからない！という方へ</p>
+                <h3>忍者ホームページへのよくあるご質問</h3>
+                <div class="contents">
+                    <ul>
+                        <li><a href="http://www.ninja.co.jp/hp/help/faq/1115/">どうやってアップロードするんですか？<br />FTPって何ですか？</a></li>
+                        <li><a href="http://www.ninja.co.jp/hp/help/manual/966/">ホームページビルダーを利用してサイトを作成するにはどうしたらいいですか？</a></li>
+                        <li class="last"><a href="http://www.ninja.co.jp/hp/help/manual/1020/">忍者ホームページにアップロードした画像を他のサイトに表示させるにはどうしたらいいですか？</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <!-- /div.section -->
+
+            <!-- div.section -->
+            <div class="section otherTools">
+                <p class="desc">いきなりHTMLに挑戦するのはちょっとハードルが高そう…という方にはこちらのサービスもおススメ</p>
+                <h3>もっと簡単にホームページを作成するなら</h3>
+                <div class="contents">
+                    <div class="toolBox">
+                        <div class="toolBoxInner sandbox">
+                            <h4>忍者サンドボックス</h4>
+                            <p>
+                                HTMLがわからなくてもファイルをアップロードするだけで、簡単にサイトが作成できる。<br />
+                                TwitterやFacebook友達の中から見せる相手を選んだり、有料で公開も可能。
+                            </p>
+                            <dl>
+                                <dt>忍者サンドボックスのデザインテンプレートをご紹介</dt>
+                                <dd><a href="http://sample.sdbx.jp/assort/" target="_blank"><span class="caption">assort</span><img src="http://www.shinobi.jp/tadaima/img/homepage/img-hpRemoveSdbxAssort.png" alt="assort" /></a></dd>
+                                <dd><a href="http://sample.sdbx.jp/novel/" target="_blank"><span class="caption">小説</span><img src="http://www.shinobi.jp/tadaima/img/homepage/img-hpRemoveSdbxNovel.png" alt="小説" /></a></dd>
+                                <dd><a href="http://sample.sdbx.jp/list/" target="_blank"><span class="caption">リスト</span><img src="http://www.shinobi.jp/tadaima/img/homepage/img-hpRemoveSdbxList.png" alt="リスト" /></a></dd>
+                            </dl>
+                            <div class="clear arrow moreInfo"><a href="http://www.ninja.co.jp/sandbox/">もっと詳しく</a></div>
+                            <div class="clear btn-makeTool"><a href="http://www.ninja.co.jp/home/sandbox/make?from=HP_default"><img src="http://www.shinobi.jp/tadaima/img/homepage/btn-makeSandbox.gif" alt="忍者サンドボックスを新規作成" /></a></div>
+                        </div>
+                    </div>
+
+                    <div class="toolBox">
+                        <div class="toolBoxInner blog">
+                            <h4>忍者ブログ</h4>
+                            <p>
+                                700種類以上の豊富なデザインテンプレートだから、お気に入りがきっと見つかる。<br />
+                                手軽にサイトが作成できて、毎日の更新も簡単。
+                            </p>
+                            <dl>
+                                <dt>忍者ブログのデザインテンプレートをご紹介</dt>
+                                <dd><a href="http://blog.ninja.co.jp/Preview/MASTER/4316/" target="_blank"><span class="caption">KARMA7（小説用）</span><img src="http://www.shinobi.jp/tadaima/img/homepage/img-hpRemoveBlogKarma7.png" alt="KARMA7（小説用）" /></a></dd>
+                                <dd><a href="http://blog.ninja.co.jp/Preview/MASTER/6752/" target="_blank"><span class="caption">ボックス</span><img src="http://www.shinobi.jp/tadaima/img/homepage/img-hpRemoveBlogBox.png" alt="ボックス" /></a></dd>
+                                <dd><a href="http://grids.blog.shinobi.jp/" target="_blank"><span class="caption">grids（グリッズ）</span><img src="http://www.shinobi.jp/tadaima/img/homepage/img-hpRemoveBlogGrids.png" alt="grids（グリッズ）" /></a></dd>
+                            </dl>
+                            <div class="clear arrow moreInfo"><a href="http://www.ninja.co.jp/blog/">もっと詳しく</a></div>
+                            <div class="clear btn-makeTool"><a href="http://www.ninja.co.jp/home/blog/make"><img src="http://www.shinobi.jp/tadaima/img/homepage/btn-makeBlog.gif" alt="忍者ブログを新規作成" /></a></div>
+                        </div>
+                    </div>
+                </div>
+                <p class="link_pagetop"><a href="#link_pagetop">▲このページの先頭へ</a></p>
+            </div>
+            <!-- /div.section -->
+
+        </div>
+        <!-- /div#contents_block -->
+
+        <!-- div#footer_block -->
+        <div id="footer_block">
+
+            <!-- div.footer_inner -->
+            <div class="footer_inner">
+
+                <!-- div.compony -->
+                <div class="company">
+                    <ul>
+                        <li><a href="/rule/">利用規約</a></li>
+                        <li class="plural"><a href="http://www.samurai-factory.jp/policy/privacy.html" target="_blank">プライバシーポリシー</a></li>
+                        <li class="plural"><a href="http://www.ninja.co.jp/trans/">特定商取引法に基づく表記</a></li>
+                        <li class="plural"><a href="http://www.ninja.co.jp/help/">ヘルプ</a></li>
+                        <li class="plural"><a href="http://www.ninja.co.jp/inquiry/">お問い合わせ</a></li>
+                        <li class="plural"><a href="http://www.samurai-factory.jp/">会社概要</a></li>
+                        <li class="plural"><a href="http://www.samurai-factory.jp/celebrity/">採用情報</a></li>
+                        <li class="plural"><a href="http://www.samurai-factory.jp/ad/">広告掲載について</a></li>
+                    </ul>
+                    <div class="clear"></div>
+
+                    <!-- p.copyright -->
+                    <p class="copyright">
+                        <a href="http://www.samurai-factory.jp/"><img src="http://www.shinobi.jp/tadaima/img/homepage/footer_company_logo.gif" alt="株式会社サムライファクトリー" /></a>
+                        <span class="copy">&copy; 2004 <a href="http://www.samurai-factory.jp/" class="samurai">Samurai Factory Inc.</a></span>
+                    </p>
+                    <!-- /p.copyright -->
+
+                </div>
+                <!-- /div.company -->
+
+            </div>
+            <!-- /div.footer_inner -->
+
+        </div>
+        <!-- /div#footer_block -->
+
+    </div>
+    <!-- /div#container_block -->
+
+</body>
+</html>
